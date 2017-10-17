@@ -4,7 +4,7 @@ Rocket Launching
 PyTorch code for "Rocket Launching: A universal and efficient framework for training
 well-performing light net" <https://arxiv.org/abs/1708.04106><br>
 
-<img src=./img/rocket_online.png width=25%><img src=./img/vis_rocket.jpg width=75% height="60%">
+<img src=./img/rocket_online.png width=45%><img src=./img/vis_rocket.jpg width=55% height="60%">
 
 ## About this code
 This code is based on the [attention-transfer code](https://github.com/szagoruyko/attention-transfer), the code uses [PyTorch](https://pytorch.org).
